@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-wrench-ring-1y7zybl" width="96" height="96" viewBox="0 0 24 24" fill="none" stroke="#34405c" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="svg-wrench-ring-1y7zybl-title">
+  <title id="svg-wrench-ring-1y7zybl-title">Wrench ring</title>
+  <defs>
+    <linearGradient id="wrench-fill" x1="5" y1="5" x2="19" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8ec5fc"/>
+      <stop offset="1" stop-color="#5a7bea"/>
+    </linearGradient>
+  </defs>
+  <!-- Source: Motive Originals
+Author: Motive project
+Source page: /sources/original/
+License: CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Original project artwork, CC0-1.0. No attribution required. -->
+  <style>@keyframes svg-wrench-ring-1y7zybl-motion-0{0%{transform:rotate(0deg)}20%{transform:rotate(-18deg)}40%{transform:rotate(15deg)}60%{transform:rotate(-10deg)}80%{transform:rotate(6deg)}100%{transform:rotate(0deg)}}
+#svg-wrench-ring-1y7zybl [data-motion]{transform-box:view-box;transform-origin:12px 12px;animation-name:svg-wrench-ring-1y7zybl-motion-0;animation-duration:1900ms;animation-delay:0ms;animation-timing-function:ease-in-out;animation-iteration-count:infinite;animation-direction:normal;animation-fill-mode:both}
+@media(prefers-reduced-motion:reduce){#svg-wrench-ring-1y7zybl [data-motion]{animation:none}}</style>
+  <g data-motion="motion">
+    <path d="M14 4a6 6 0 0 0-7 8L3 16a3 3 0 0 0 5 5l4-4a6 6 0 0 0 8-7l-4 4-5-5z" fill="url(#wrench-fill)"/>
+  </g>
+</svg>

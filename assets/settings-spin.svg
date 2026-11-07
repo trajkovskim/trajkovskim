@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-settings-spin-14na2do" width="96" height="96" viewBox="0 0 24 24" fill="none" stroke="#59431f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="svg-settings-spin-14na2do-title">
+  <title id="svg-settings-spin-14na2do-title">Settings spin</title>
+  <defs>
+    <linearGradient id="settings-fill" x1="3" y1="3" x2="21" y2="21" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffe66d"/>
+      <stop offset="1" stop-color="#ff9f43"/>
+    </linearGradient>
+  </defs>
+  <!-- Source: Motive Originals
+Author: Motive project
+Source page: /sources/original/
+License: CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Original project artwork, CC0-1.0. No attribution required. -->
+  <style>@keyframes svg-settings-spin-14na2do-motion-0{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+#svg-settings-spin-14na2do [data-motion]{transform-box:view-box;transform-origin:12px 12px;animation-name:svg-settings-spin-14na2do-motion-0;animation-duration:4000ms;animation-delay:0ms;animation-timing-function:linear;animation-iteration-count:infinite;animation-direction:normal;animation-fill-mode:both}
+@media(prefers-reduced-motion:reduce){#svg-settings-spin-14na2do [data-motion]{animation:none}}</style>
+  <g data-motion="motion">
+    <path d="M10 3h4l.5 3 2 1.2 2.8-1.1 2 3.5-2.3 1.8v2.4l2.3 1.8-2 3.5-2.8-1.1-2 1.2L14 22h-4l-.5-3.8-2-1.2-2.8 1.1-2-3.5L5 12.8v-2.4L2.7 8.6l2-3.5L7.5 6.2 9.5 5z" fill="url(#settings-fill)"/>
+    <circle cx="12" cy="12" r="3" fill="#fff5c2" stroke="#d18535"/>
+  </g>
+</svg>

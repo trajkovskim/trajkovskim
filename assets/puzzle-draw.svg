@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-puzzle-draw-1ux262q" width="96" height="96" viewBox="0 0 24 24" fill="none" stroke="#253e35" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="svg-puzzle-draw-1ux262q-title">
+  <title id="svg-puzzle-draw-1ux262q-title">Puzzle draw</title>
+  <defs>
+    <linearGradient id="puzzle-fill" x1="4" y1="4" x2="20" y2="20" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#55d6be"/>
+      <stop offset="1" stop-color="#19a7d8"/>
+    </linearGradient>
+    <linearGradient id="puzzle-highlight" x1="6" y1="6" x2="12" y2="11" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Source: Motive Originals
+Author: Motive project
+Source page: /sources/original/
+License: CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Original project artwork, CC0-1.0. No attribution required. -->
+  <style>@keyframes svg-puzzle-draw-1ux262q-motion-0{0%{stroke-dashoffset:60}50%{stroke-dashoffset:0}100%{stroke-dashoffset:0}}
+#svg-puzzle-draw-1ux262q [data-motion]{transform-box:view-box;transform-origin:12px 12px;animation-name:svg-puzzle-draw-1ux262q-motion-0;animation-duration:1800ms;animation-delay:0ms;animation-timing-function:ease-in-out;animation-iteration-count:infinite;animation-direction:normal;animation-fill-mode:both}
+@media(prefers-reduced-motion:reduce){#svg-puzzle-draw-1ux262q [data-motion]{animation:none}}</style>
+  <g data-motion="motion" stroke-dasharray="60" stroke-dashoffset="0">
+    <path d="M4 4h6V3a2 2 0 0 1 4 0v1h6v6h1a2 2 0 0 1 0 4h-1v6h-6v-1a2 2 0 0 0-4 0v1H4v-6h1a2 2 0 0 0 0-4H4z" fill="url(#puzzle-fill)" stroke="#174c60" pathLength="60"/>
+    <path d="M6 6h3.5v3.5A3 3 0 0 1 6 6z" fill="url(#puzzle-highlight)" stroke="none"/>
+  </g>
+</svg>

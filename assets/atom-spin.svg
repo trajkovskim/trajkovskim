@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-atom-spin-1jseqxx" width="96" height="96" viewBox="0 0 24 24" fill="none" stroke="#28314a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="svg-atom-spin-1jseqxx-title">
+  <title id="svg-atom-spin-1jseqxx-title">Atom spin</title>
+  <defs>
+    <linearGradient id="atom-core" x1="10" y1="10" x2="14" y2="14" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffe66d"/>
+      <stop offset="1" stop-color="#ff9f43"/>
+    </linearGradient>
+  </defs>
+  <!-- Source: Motive Originals
+Author: Motive project
+Source page: /sources/original/
+License: CC0-1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+Original project artwork, CC0-1.0. No attribution required. -->
+  <style>@keyframes svg-atom-spin-1jseqxx-motion-0{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+#svg-atom-spin-1jseqxx [data-motion]{transform-box:view-box;transform-origin:12px 12px;animation-name:svg-atom-spin-1jseqxx-motion-0;animation-duration:4500ms;animation-delay:0ms;animation-timing-function:linear;animation-iteration-count:infinite;animation-direction:normal;animation-fill-mode:both}
+@media(prefers-reduced-motion:reduce){#svg-atom-spin-1jseqxx [data-motion]{animation:none}}</style>
+  <g data-motion="motion">
+    <ellipse cx="12" cy="12" rx="9" ry="3" stroke="#ef668b"/>
+    <ellipse cx="12" cy="12" rx="3" ry="9" transform="rotate(-30 12 12)" stroke="#5d9cec"/>
+    <ellipse cx="12" cy="12" rx="3" ry="9" transform="rotate(30 12 12)" stroke="#49c6a5"/>
+    <circle cx="12" cy="12" r="1.65" fill="url(#atom-core)" stroke="#c76c30"/>
+  </g>
+</svg>
